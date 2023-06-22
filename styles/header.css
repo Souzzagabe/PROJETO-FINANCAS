@@ -1,0 +1,13 @@
+header {
+    font-weight: 600;
+    font-size: 14px;
+    background: rgb(1, 43, 60);
+    color: white;
+    padding: 3rem 0px 13rem;
+    text-align: center;
+}
+
+header h1 {
+    font-weight: 600;
+    cursor: pointer;
+}

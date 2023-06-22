@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Neue Haas Grotesk Text", sans-serif;
+}
+
+html {
+    font-size: 15px;
+}
+
+
+body {
+   background: rgba(205, 205, 205, 0.539);
+}
+
+.conteiner {
+    width: min(90vw, 800px);
+    margin: auto;
+}
+
+h2 {
+    margin-top: 3.2rem;
+    margin-bottom: 0.8rem;
+    color: #363f5f;
+    font-weight: normal;
+}
+
+footer {
+    text-align: center;
+    padding: 4rem 0 2rem;
+    opacity: 0.6;
+    cursor: pointer;
+}
+
+#footer {
+    text-align: center;
+    color: rgb(1, 43, 60);
+}
+/* background: rgb(1, 43, 60);*/
