@@ -26,4 +26,8 @@ Abra o arquivo index.html em seu navegador.
 Utilize a aplicação para adicionar suas transações, acompanhar seu balanço e gerenciar suas finanças pessoais.
 
 <h1>Contato</h1>
+<<<<<<< HEAD
 Para mais informações, entre em contato com https://www.linkedin.com/in/gabriel-souza-0b6601269/.
+=======
+Para mais informações, entre em contato com https://www.linkedin.com/in/gabriel-souza-0b6601269/.
+>>>>>>> 039c37f5b0e7afdd76d1312ccdbb14ede2516ed7
