@@ -24,6 +24,7 @@
     border-radius: 0.25rem;
     margin-bottom: 2rem;
     color: #363f5f;
+    box-shadow: 0px 1px 6px 0px #00000030;
 }
 
 .card h3 {
@@ -79,6 +80,7 @@ button {
     border-radius: 0.25rem;
     cursor: pointer;
     transition: 0.4s;
+    box-shadow: 0px 1px 6px 0px #00000030;
 }
 
 button:hover {
@@ -95,6 +97,7 @@ button:hover {
     justify-content: center;
     opacity: 0.6;
     transition: 0.4s;
+    box-shadow: 0px 1px 6px 0px #00000030;
 }
 
 .button.cancel:hover {
@@ -164,6 +167,11 @@ td.expense {
     color: #e92929;
 }
 
+#data-table tr {
+    box-shadow: 1px 0px 1px 0px #00000079;
+
+}
+
 
 /*==============MODAL*/
 
@@ -210,6 +218,7 @@ input {
     border-radius: 0.2rem;
     padding: 0.8rem;
     width: 100%;
+    box-shadow: 0px 1px 6px 0px #00000030;
 }
 
 .input-group {

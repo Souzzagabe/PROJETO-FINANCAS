@@ -145,6 +145,18 @@ const Utils = {
     }
 }
 
+const Form = {
+    validateField() {
+        console.log('validar os campos')
+    },
+    submit(event) {
+        console.log(event)
+        event.preventDefault()
+        Form.validateFields()
+    }
+}
+
+
 const App = {
     init() {
         Transaction.all.forEach(transaction => {
