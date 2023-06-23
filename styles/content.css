@@ -202,6 +202,12 @@ td.expense {
 
 }
 
+.sinalizar {
+    display: flex;
+    padding: 10px;
+    cursor: pointer;
+}
+
 /*==============FORM*/
 
 

@@ -6,7 +6,8 @@ var modal = {
     close() {
         document.querySelector('.modal-overlay')
             .classList.remove('active')
-    }
+    },
+  
 }
 
 const Storage = {
@@ -207,6 +208,7 @@ const Form = {
         }
 
     }
+
 };
 
 Storage.get()
