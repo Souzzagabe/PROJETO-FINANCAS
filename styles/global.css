@@ -25,6 +25,7 @@ h2 {
     color: #363f5f;
     font-weight: normal;
     font-size: 27px;
+    text-shadow: 0px 1px 6px 0px #00000030;
 }
 
 footer {
