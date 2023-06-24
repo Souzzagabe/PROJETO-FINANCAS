@@ -11,7 +11,7 @@ html {
 
 
 body {
-   background: rgba(205, 205, 205, 0.539);
+    background: rgba(205, 205, 205, 0.539);
 }
 
 .conteiner {
@@ -20,10 +20,11 @@ body {
 }
 
 h2 {
-    margin-top: 3.2rem;
-    margin-bottom: 0.8rem;
+    margin-top: 0.2rem;
+    margin-bottom: 2.8rem;
     color: #363f5f;
     font-weight: normal;
+    font-size: 27px;
 }
 
 footer {
@@ -37,4 +38,16 @@ footer {
     text-align: center;
     color: rgb(1, 43, 60);
 }
+
 /* background: rgb(1, 43, 60);*/
+
+
+.indication {
+    max-width: 30px;
+    opacity: 0.6;
+    transition: 0.4s;
+}
+
+.indication:hover {
+    opacity: 1;
+}

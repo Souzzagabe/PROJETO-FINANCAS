@@ -126,11 +126,11 @@ table tbody tr td:last-child {
 }
 
 #data-table {
-    
+
     width: 100%;
     border-spacing: 0rem 0.5rem;
     color: #363f5f;
-    
+
 
 }
 
@@ -205,6 +205,10 @@ td.expense {
 .sinalizar {
     display: flex;
     padding: 10px;
+
+}
+
+.sinalizar img {
     cursor: pointer;
 }
 
